@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-        <exec.mainClass>com.mycompany.lojagames.LojaGames</exec.mainClass>
+        <exec.mainClass>com.loja.cli.Main</exec.mainClass>
     </properties>
 </project>
